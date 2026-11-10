@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Favorites — Random Fun Generator</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <script src="/js/favorites.js" type="module"></script>
+  </head>
+  <body>
+    <header>
+      <h1>⭐ Favorites</h1>
+      <nav>
+        <a href="/index.html">Home</a>
+        <a href="/favorites.html">Favorites</a>
+        <a href="/about.html">About</a>
+      </nav>
+    </header>
+
+    <main>
+      <div id="favorites-list" class="favorites-list"></div>
+      <button id="clear-all" class="danger">Clear All</button>
+      <p id="status" aria-live="polite"></p>
+    </main>
+
+    <footer>&copy; <span id="year"></span> Random Fun Generator</footer>
+  </body>
+</html>
