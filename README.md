@@ -2,7 +2,8 @@
 
 A lightweight, three-page web app that pairs a random dog photo with a random piece of advice. No accounts, no ads, no tracking, everything runs in your browser.
 
-![App preview](screenshot.png)!
+![App preview](screenshot.png)
+![App preview](screenshot1.png)
 
 ---
 
